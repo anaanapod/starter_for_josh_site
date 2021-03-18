@@ -23,7 +23,7 @@
               </div>  
               
               <div class="col-md-4 article-cent" >
-                  <img class="img-responsive" alt="imageone" src="https://github.com/anaanapod/starter_for_josh_site/blob/master/images%20/imageone.jpg"> 
+                  <img class="img-responsive" alt="imageone" src="http://206.189.45.97/~mesh20/sub/wp-content/themes/starter_for_josh_site/images%20/imageone.jpg"> 
                   
                   <h4> A PORTRAIT</h4>
                   <p class="date"> Friday, November 10.2019 </p>
@@ -35,7 +35,7 @@
               
              <div class="col-md-4 article-cent">
                  
-                 <img class="img-responsive" alt="imageone" src="https://github.com/anaanapod/starter_for_josh_site/blob/master/images%20/image2.jpg"> 
+                 <img class="img-responsive" alt="imageone" src="http://206.189.45.97/~mesh20/sub/wp-content/themes/starter_for_josh_site/images%20/image2.jpg"> 
                  
                   <h4> GAME DESIGN</h4>
                   <p class="date"> Friday, November 10.2019 </p>
@@ -48,7 +48,7 @@
               
               <div class="col-md-4 article-cent">
                   
-                  <img class="img-responsive" alt="imageone" src="https://github.com/anaanapod/starter_for_josh_site/blob/master/images%20/image3.jpg"> 
+                  <img class="img-responsive" alt="imageone" src="http://206.189.45.97/~mesh20/sub/wp-content/themes/starter_for_josh_site/images%20/image3.jpg"> 
                   
                   <h4> A MODEL</h4>
                   <p class="date"> Friday, November 10.2019 </p>
