@@ -132,7 +132,8 @@ h4{
 .readmore{
     color:#d4d0d0; 
     font-size:0.9em; 
-    margin-bottom:40px; 
+    margin-bottom:40px;
+    display: block; 
     
     }
 
