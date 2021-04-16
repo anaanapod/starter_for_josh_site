@@ -26,11 +26,15 @@
           <div class="container">
           <div class="row">
             <div>
-              <h3 class="text-center article-title">LATEST ARTICLES</h3>
+              <h3><?php the field('titleforarticles'); ?></h3>
               </div>  
               
               <div class="col-md-4 article-cent" >
                   
+                  <img class="img-responsive" alt="portrait" src="<?php the_field('articleimage'); ?>">
+                  <h4> <?php the_field('articletitle'); ?></h4>
+                  <p><?php the_field('articleecert'); ?></p>
+                  <a href="<?php the_field('readmore'); ?>" class="readmore"> CONTINUE READING</a>
 <!--placeholder for col1   -->
                   
                   
